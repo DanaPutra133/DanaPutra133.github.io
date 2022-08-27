@@ -1,0 +1,36 @@
+body {
+  min-height: px;
+  font-family: "Fira Sans Condensed", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+.about {
+  padding-left: 1rem;
+  background-color: #ffff;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.contact {
+  padding-top: 1rem;
+}
+
+#contact {
+  padding-top: 10rem;
+}
+#footer {
+  text-size-adjust: 12pt;
+}
+
+#galery .row > * {
+  padding: 0;
+}
